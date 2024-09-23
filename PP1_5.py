@@ -8,6 +8,7 @@ def q2():
   b = int(input("Input an integer: "))
   c = float(str(b)) + 3
   print(c)
+  
 def q3():
   #Write Assignment code here
 
