@@ -15,6 +15,9 @@ def q3():
   a = float((radius**2)*3.14)
 def q4():
   #Write Assignment code here
+  user1 = float(input("Input a number: "))*12
+  str(print(user1))
 
 def q5():
   #Write Assignment code here
+  
