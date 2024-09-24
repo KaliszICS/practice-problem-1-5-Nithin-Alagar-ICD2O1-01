@@ -21,3 +21,4 @@ def q4():
 def q5():
   #Write Assignment code here
   print(a)
+  
